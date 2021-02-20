@@ -1,0 +1,88 @@
+#body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url('/bgimag.png');
+    background-size: 1280px 1100px;
+    
+    
+}
+@font-face {
+    font-family: Ubuntu-Bold;
+    src: url('../fonts/ubuntu/Ubuntu-Bold.ttf'); 
+  }
+#navbar{
+    background-color: rgba(43,202,191,1);
+width: 100%;
+height: 100px;
+
+font-family: 'Ubuntu-Bold,serif;
+font-style: italic;
+
+color: white;
+
+
+}
+.bts{
+    color: rgb(37, 10, 158);
+    background-color: rgba(43,202,191,1);
+    padding: 5%;
+    opacity: 90%;
+}
+h2{
+    color:black !important;
+    opacity: 100% !important;
+}
+.buttons{
+    width: 100px;
+    height: auto;
+    border: 1px solid rgba(43,202,191,1);
+    font-size: 10px;
+    box-sizing: border-box;
+    background-color: rgba(43,202,191,1);
+    color: white;
+    
+}
+.buttons1{
+    width: 150px;
+    height: auto;
+    border: 1px solid rgba(43,202,191,1);
+   
+    font-size: 7px;
+    box-sizing: border-box;
+    margin-left: 65%;
+    background-color: rgba(43,202,191,1);
+    color: white;
+    margin-right: 5%;
+}
+.buttons2{
+    width: 100px;
+    height: auto;
+    border: 1px solid rgba(43,202,191,1);
+    font-size: 10px;
+    box-sizing: border-box;
+    background-color: rgba(43,202,191,1);
+    color: white;
+    
+}
+.buttons3{
+    width: 100px;
+    height: auto;
+    border: 1px solid rgba(43,202,191,1);
+    font-size: 10px;
+    box-sizing: border-box;
+    background-color: rgba(43,202,191,1);
+    color: white;
+    margin-left: 5%;
+    
+}
+.mainlogin{
+margin-left: 35%;
+margin-top: 10%;
+}
+
+#inin{
+    margin-top: 5%;
+    color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+}
